@@ -2,7 +2,7 @@
 
 import unittest
 from unittest.mock import patch, mock_open
-from vote_counter import count_votes  # Assuming starter version is in `vote_counter.py`
+from vote_counter import count_votes 
 
 class TestVoteCounter(unittest.TestCase):
 
